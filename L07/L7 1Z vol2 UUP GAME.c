@@ -1,3 +1,4 @@
+/*
 Zadatak
 U predavanjima je data funkcija
 
@@ -14,8 +15,9 @@ printf ("%d", pronadji_posljednji(n, "an"));    	//16
 printf ("%d", pronadji_posljednji(n, "an!"));   	//16
 printf ("%d", pronadji_posljednji("abc cde abc", "abc")); 	//8
 Napomena: Pri rješavanju ovog zadatka zabranjeno je korištenje funkcija iz biblioteke string.h. Nije dozvoljeno kreirati pomoćne stringove u funkciji ili globalno.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

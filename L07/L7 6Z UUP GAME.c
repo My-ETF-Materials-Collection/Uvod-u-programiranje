@@ -1,17 +1,18 @@
+/*
 Zadatak
 Napisati funkciju
 
 void nta_rijec(const char* str, char* rijec, int n)
 koja pronalazi n-tu riječ u rečenici str i smješta je u niz na koji pokazuje parametar rijec. Ukoliko je n veći od broja riječi u rečenici, funkcija treba da stavi „prazan“ string u parametar rijec (nul znak tj. '\0' na početak stringa). Pod pojmom "riječ" podrazumijevamo neprekinuti niz velikih ili malih slova. Primjer ispod treba da ispiše „2. rijec: 'pije'“:
 
-
 const char *tekst = "  Zeko    pije   mlijeko!  ";
 char rijec[101]; //pretpostavimo da nije duza od 100 znakova
 nta_rijec(tekst, rijec, 2); // 2. rijec po redu ("pije")
 printf ("2. rijec: '%s'", rijec);
 Napomena: Nije dozvoljeno kreirati pomoćne stringove u funkciji ili globalno.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju zamijeni_slova koja prima dva stringa. Funkcija transformiše string koji je primljen kao prvi parametar tako što u njemu zamjenjuje prvi znak iz stringa koji je proslijeđen kao drugi parametar sa posljednjim znakom iz istog stringa, drugi sa pretposljednjim itd. do sredine stringa. Ako drugi parametar sadrži neparan broj znakova, sa znakom koji se nalazi u sredini ne treba raditi ništa. Ako je jedan od parametara prazan string, funkcija ne treba raditi ništa.
 
@@ -6,8 +7,9 @@ Npr. ako prvi parametar glasi "dobar dan" a drugi glasi "abcde" nakon zamjene te
 Funkcija treba vraćati pokazivač na početak stringa tekst radi lakšeg lančanog pozivanja.
 
 Napomena: U zadatku je dozvoljeno koristiti funkcije iz biblioteke string.h, ali nije obavezno, odnosno zadatak se može riješiti i bez njih. Nije dozvoljeno koristiti pomoćne nizove i takvo rješenje će dobiti 0 bodova!
+*/
 
-MOJ KOD
+// MOJ KOD
 
 #include <stdio.h>
 

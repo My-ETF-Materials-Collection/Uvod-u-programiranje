@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju
 
@@ -5,8 +6,9 @@ char *izbaci_viska_razmake (char *str)
 koja izbacuje sve višestruke razmake iz proslijeđenog stringa. Dodatno, funkcija treba da ukloni sve eventualne razmake prije prve riječi i nakon posljednje riječi. Npr. ako je string „ volim UUP “, nakon poziva funkcije string treba da ima sljedeći tekst „volim UUP“. Funkcija treba vratiti pokazivač na početak stringa.
 
 Napomena: Nije dozvoljeno kreirati pomoćne stringove u funkciji ili globalno.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <string.h>
