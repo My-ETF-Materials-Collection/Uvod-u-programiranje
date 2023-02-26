@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju popuni koja prima matricu cijelih brojeva deklarisanih dimenzija 100x100 te cijeli broj M koji predstavlja stvarnu širinu i visinu matrice. Funkcija treba popuniti matricu brojevima na sljedeći način. U donjem desnom uglu se nalazi broj 1, a zatim se matrica popunjava redom brojevima 2, 3, 4 itd. tako da se najprije popunjavaju brojevi prema lijevo, zatim gore, zatim prema desno, pa dole, pa opet lijevo itd. u obliku spirale dok se ne dođe do centra. Primjer matrice za M=5 dat je ispod.
 
@@ -6,8 +7,9 @@ Napisati funkciju popuni koja prima matricu cijelih brojeva deklarisanih dimenzi
 7 20 25 24 15
 6 19 18 17 16
 5  4  3  2  1
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

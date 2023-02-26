@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite funkciju izbaci_iste_cifre. Funkcija prima dva niza cijelih brojeva A i B. Funkcija treba iz niza B izbaciti (bez promjene redoslijeda!) sve članove koji se sastoje od istih cifara kao neki (bilo koji) od članova niza A. Npr. broj 7731 se sastoji od istih cifara kao broj 33117 (a to su cifre 1, 3 i 7).
 
@@ -5,13 +6,13 @@ Napišite i glavni program koji omogućuje najprije unos niza A od najviše 100 
 
 Primjer ulaza i izlaza:
 
-
 Unesite niz A: 8 9 7 169 121 18 11 -1
 Unesite niz B: 7 1 2 818 96 12 16 999 -1
 2,96,16.
 Napomena: U zadatku je strogo zabranjeno koristiti pomoćne nizove tj. deklarisati bilo kakav niz osim nizova A i B koji su deklarisani u main funkciji! Rješenje u kojem budu korišteni pomoćni nizovi će biti bodovano sa 0 bodova!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <math.h>
 #include <stdio.h>

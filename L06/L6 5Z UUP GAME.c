@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju
 
@@ -5,8 +6,9 @@ void prekopiraj (const int *izvor, int *odrediste, int n)
 koja treba da prekopira elemente niza na koje pokazuje pokazivac izvor u niz na kojeg pokazuje pokazivač odrediste. Pretpostaviti da odrediste pokazuje na dovoljno velik niz koji može prihvatiti svih n elemenata prvog niza; ovo ne treba provjeravati.
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

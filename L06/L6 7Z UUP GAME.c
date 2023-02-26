@@ -1,11 +1,13 @@
+/*
 Zadatak
 Napisati funkciju proste_sume koja ima četiri parametra. Prva dva parametra su niz cijelih brojeva (niz 1) i njegova veličina, treći parametar je prazan niz cijelih brojeva (niz 2), a četvrti je kapacitet (dimenzija) tog niza. Funkcija treba u niz 2 zapisati sve članove niza 1 čija je suma cifara prost broj, te vratiti broj tako zapisanih članova.
 
 Članovi trebaju biti zapisani u niz 2 istim redoslijedom kojim su navedeni u nizu 1. Pri tome se ne smije prekoračiti kapacitet niza 2! Ako niz 1 sadrži više članova koji zadovoljavaju uslov nego što je kapacitet niza 2 (n), treba u niz 2 upisati samo prvih n takvih članova.
 
 Napomena: U zadatku je strogo zabranjeno koristiti pomoćne nizove tj. deklarisati bilo kakav niz osim nizova A i B koji su deklarisani u main funkciji! Rješenje u kojem budu korišteni pomoćni nizovi će biti bodovano sa 0 bodova! Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

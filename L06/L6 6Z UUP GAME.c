@@ -1,3 +1,4 @@
+/*
 Zadatak
 Koristeći isključivo pokazivačku aritmetiku, napisati funkciju
 
@@ -16,8 +17,9 @@ Niz1 = {1, 2, 3, 4, 5, 6, 7}; Niz2 = {2, 0, 4};
 Funkcija treba da vrati -1 jer Niz2 nije podniz niza Niz1.
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

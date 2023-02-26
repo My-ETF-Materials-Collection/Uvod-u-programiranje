@@ -1,9 +1,11 @@
+/*
 Zadatak
 Napisati funkciju void sortiraj(double niz[], int n) koja sortira elemente niza u opadajućem poretku koristeći Selection sort algoritam sa predavanja. Pri rješavanju zadatka koristiti isključivo pokazivačku aritmetiku!
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i). Rješenja u kojima je korišten Bubble Sort ili neki drugi algoritam, a ne Selection sort, biti će vraćena na popravku!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

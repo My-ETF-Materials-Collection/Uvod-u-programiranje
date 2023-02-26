@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju sekunde2hms koja pretvara sekunde u sate, minute i sekunde. Prototip funkcije zaključite sami na osnovu sljedećeg kôda:
 
@@ -6,8 +7,9 @@ int H, M, S;
 int s = 3665;
 sekunde2hms(s, &H, &M, &S);
 printf ("%02d:%02d:%02d", H, M, S); //ispisuje: „01:01:05“
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

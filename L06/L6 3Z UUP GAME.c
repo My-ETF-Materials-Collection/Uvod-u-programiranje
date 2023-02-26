@@ -1,3 +1,4 @@
+/*
 Zadatak
 Koristeći isključivo pokazivačku aritmetiku, napisati funkciju
 
@@ -10,8 +11,9 @@ treba da modificira niz1 tako da on izgleda ovako: {0, 0, 1, 2, 3, 4, 5, 0, 0, 0
 Objašnjenje: funkciji smo poslali adresu 3. elementa niza niz1 i ona na toj lokaciji treba da upisuje elemente niza niz2.
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

@@ -1,11 +1,13 @@
+/*
 Zadatak
 Napisati funkciju udvostruci koja će udvostručiti sve elemente niza proslijeđenog kao parametar. Funkcija ne vraća ništa, a modificira proslijeđeni joj niz. Parametri funkcije su niz i dužina niza. Npr. za proslijeđeni niz {1, 0, -2} funkcija ga treba modificirati tako da on izgleda {2, 0, -4}.
 
 Napomena: prilikom prosljeđivanja nizova funkcijama, sve izmjene koje funkcija napravi odraze se na originalni niz!
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

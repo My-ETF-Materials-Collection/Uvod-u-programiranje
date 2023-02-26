@@ -1,3 +1,4 @@
+/*
 Zadatak
 Koristeći isključivo pokazivaču aritmetiku napisati funkciju max_el koja vraća pokazivač na najveći elemenat u nizu. Ako postoji više identičnih (najvećih) elemenata, treba vratiti prvi po redu. Prototip funkcije izgleda ovako:
 
@@ -12,8 +13,9 @@ int *p = max_el(niz, niz + 7); //p pokazuje na max. el.
 Također, napisati funkciju min_el koja, slično funkciji max_el, pronalazi minimalan elemenat i vraća pokazivač na njega.
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

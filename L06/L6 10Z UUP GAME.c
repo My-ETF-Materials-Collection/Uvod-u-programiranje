@@ -1,9 +1,11 @@
+/*
 Zadatak
 Napišite funkciju zaokruzi koja kao parametar prima niz proizvoljne dužine sastavljen od realnih brojeva dvostruke preciznosti, a zatim sve brojeve u nizu zaokružuje na jednu decimalu.
 
 Napomena: Pri rješavanju zadatka obavezno koristiti pokazivačku aritmetiku! Nije dozvoljena ni trivijalna simulacija indeksiranja izrazima oblika *(niz+i).
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h> 
 #include <math.h> 
