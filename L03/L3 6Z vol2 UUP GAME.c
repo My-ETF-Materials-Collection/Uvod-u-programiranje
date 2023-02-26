@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite program koji omogućuje korisniku da unese proizvoljan broj cijelih brojeva sa tastature, pri čemu broj -1 označava kraj unosa. Dozvoljeno je unositi brojeve između 0 i 100. Ukoliko se unese broj van ovog opsega, ponavlja se unos. Nakon što korisnik unese broj -1, treba za svaki broj napisati koliko puta se ponavlja. Brojeve koji se ne javljaju nijednom na ulazu ne treba ispisivati.
 
@@ -20,8 +21,9 @@ Broj 7 se javlja 1 puta.
 Broj 15 se javlja 3 puta.
 Broj 22 se javlja 2 puta.
 Broj 35 se javlja 2 puta.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos n, broj elemenata niza (najviše 100). Nakon toga korisnik unosi elemente u niz, a program treba da iz niza izbaci sve parne elemente. Elemente izbacivati uz očuvanje redoslijeda (tako da se na njihovo mjesto pomjere ostali elementi). Program treba da ispiše novonastali niz kao i sumu njegovih elemenata.
 
@@ -10,8 +11,9 @@ Suma je: 17
 Napomena: kada se kaže "izbaciti" tada se misli da se niz modificira, a ne da se samo preskoče njegovi elementi prilikom ispisa ili unosa. Također nije dozvoljeno kreirati pomoćni niz.
 
 Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

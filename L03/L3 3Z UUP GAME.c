@@ -1,3 +1,4 @@
+/*
 Zadatak
 Korisnik najprije unosi broj N koji predstavlja broj članova niza (najviše 100), pri čemu je do-while petljom osigurano da je ovaj broj u opsegu koji ima smisla. Zatim se unose realni brojevi koji su članovi niza.
 
@@ -13,8 +14,9 @@ Unesite broj clanova niza: 5
 Unesite niz: 0.1 0.2 0.1 0.2 0.1
 NE
 Napomena: Rješenje koje uvijek ispisuje DA ili NE ili hardcodira rješenja (npr. ako je niz jednak nekom iz autotesta uvijek ispisuje DA ili NE) biće bodovana sa 0 bodova bez obzira na potencijalno ispravne dijelove koda!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

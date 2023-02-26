@@ -1,3 +1,4 @@
+/*
 Zadatak
 Potrebno je napraviti sljedeći program: Korisnik najprije unosi niz realnih brojeva (najviše 100) na način da se prvo unese broj članova niza, a zatim članovi. U ovom nizu treba pronaći parove susjednih članova takvih da je desni član dvostruko veći od lijevog člana (koristiti ε=0.0001). Između svaka dva takva člana treba ubaciti broj koji predstavlja srednju vrijednost ta dva člana. Ovako kreiran niz treba ispisati na ekran.
 
@@ -12,8 +13,9 @@ Nakon ubacivanja niz glasi:
 1 1.5 2 3 4 5
 Cifra 0 se ponavlja 5 puta.
 Cifra 5 se ponavlja 1 puta.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <math.h>

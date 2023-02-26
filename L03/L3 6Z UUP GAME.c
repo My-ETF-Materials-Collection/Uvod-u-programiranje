@@ -1,3 +1,4 @@
+/*
 Zadatak
 U nekoj školi na velikom odmoru se dijele kolači. Učenici su se poredali abecednim redom i svaki učenik izjavljuje koliko želi kolača. Pošto je ispečen ograničen broj kolača, neće ih biti dovoljno za sviju. Vaš zadatak je da napravite program koji ispisuje koliko učenika će dobiti kolače prije nego što se kolači potroše (računamo i učenika koji je dobio manje kolača nego što želi).
 
@@ -14,8 +15,9 @@ Nijedan ucenik nije dobio kolace
 32 ucenika su dobila kolace
 121 ucenik je dobio kolace
 12 ucenika je dobilo kolace
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

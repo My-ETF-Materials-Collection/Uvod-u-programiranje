@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji omogućuje unos niza realnih brojeva, pronalazi u njemu član koji se ponavlja najviše puta, a zatim iz niza izbacuje sve članove koji su veći od njega (bez promjene redoslijeda). Ako se više članova ponavlja isti broj puta, treba koristiti najmanji od njih. Na kraju program ispisuje niz na ekranu.
 
@@ -9,11 +10,12 @@ Nakon izbacivanja niz glasi:
 -10.1 -140 -21.1 -10.1
 Članovi niza 5.2 i -10.1 se ponavljaju jednak broj puta (po dva puta), ali -10.1 je manji.
 
-Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara === OVDJE UBACITI KOD === a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
 
 Također nije dozvoljeno kreirati pomoćni niz.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

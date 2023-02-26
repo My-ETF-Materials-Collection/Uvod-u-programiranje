@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos n elemenata niza (ne više od 200), unos se prekida brojem -1 (koji se ne unosi u niz). Program nakon toga treba pronaći i ispisati najmanji i drugi najmanji broj u unesenom nizu.
 
@@ -23,11 +24,12 @@ Niz glasi:
 1 1 1 
 Najmanji broj je: 1
 Drugi najmanji broj je: 1
-Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara === OVDJE UBACITI KOD === a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
 
 Pored toga, nije dozvoljeno kreirati pomoćni niz.
+*/
 
-MOJ KOD:
+//MOJ KOD:
 
 #include <stdio.h>
 

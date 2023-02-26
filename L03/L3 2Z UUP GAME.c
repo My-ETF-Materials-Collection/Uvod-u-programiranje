@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos najviše 100 elemenata (sa -1 se unos prekida). Program zatim od korisnika traži da unese neki broj n i ispituje da li je broj n među unesenim brojevima. Ako nije, treba ispisati odgovarajuću poruku (pogledati drugi primjer), a ukoliko jeste, treba reći koji je po redu broj n unesen, pri čemu se gleda samo posljednji unos broja n.
 
@@ -24,9 +25,9 @@ Unesite 3. element (-1 za kraj unosa): 3
 Unesite 4. element (-1 za kraj unosa): -1
 Unesite broj za pretragu: 5
 Broj 5 se ne nalazi medju unesenim brojevima!
+*/
 
-
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

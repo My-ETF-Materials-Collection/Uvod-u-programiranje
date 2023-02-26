@@ -1,3 +1,4 @@
+/*
 Zadatak
 Potrebno je napraviti program koji ispituje da li na fakultetu postoje studenti koji su rođeni sa tačno 100 dana razlike, što znači da je razlika između njihovih datuma rođenja jednaka 100.
 
@@ -21,8 +22,9 @@ Unesite datum rodjenja 2. studenta: 31,2,2000
 Neispravan datum
 Unesite datum rodjenja 2. studenta: 10,4,2000
 Student 1. je rodjen tacno 100 dana prije studenta 2.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

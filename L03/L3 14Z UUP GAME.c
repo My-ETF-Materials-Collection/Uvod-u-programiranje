@@ -1,3 +1,4 @@
+/*
 Zadatak
 Program omogućuje unos niza pozitivnih cijelih brojeva proizvoljne dužine (ne duži od 100 članova). Unos se završava brojem nula ili negativnim brojem koji se ne smatra za član niza. Ako korisnik pokuša unijeti više od 100 brojeva, biće razmatrano samo prvih 100 i unos će se prekinuti čim to bude moguće. Biće unesen najmanje jedan pozitivan broj (nije potrebno testirati). Program zatim treba ispisati cifre koje se pojavljuju u unesenim brojevima, poredane od manjih ka većim.
 
@@ -8,7 +9,9 @@ Unesite brojeve:
 351 4 13 443 53413 -1
 Cifre: 1,3,4,5.
 Obratite pažnju da su cifre razdvojene znakom zarez, osim posljednje nakon koje se nalazi znak tačka.
-MOJ KOD:
+*/
+
+// MOJ KOD:
 
 #include <stdio.h>
 

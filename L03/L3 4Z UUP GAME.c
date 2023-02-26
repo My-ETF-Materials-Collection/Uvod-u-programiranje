@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos n realnih elemenata niza (ne više od 100) koji će te elemente ispisati sortirane od manjeg ka većem unutar vitičastih zagrada, razdvojene znakom zarez (iza posljednjeg elementa nema znaka zarez). Ukoliko je broj n van opsega, ponovo tražiti unos.
 
@@ -6,8 +7,9 @@ Primjer ulaza i izlaza:
 Unesite broj elemenata niza: 7
 Unesite 7 brojeva: 1 0 2.1 -2 5 7 3
 {-2, 0, 1, 2.1, 3, 5, 7}
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

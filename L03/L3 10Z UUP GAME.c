@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji omogućuje unos proizvoljnog broja pozitivnih cijelih brojeva (maksimalno 100, a minimalno 3 elementa) u niz A. Unos se prekida unosom broja -1.
 
@@ -7,8 +8,9 @@ Primjeri:
 4 2 1 5 10 - niz je v-niz
 5 5 4 3 4 5 - niz nije v-niz jer su prva dva elementa jednaka (nije strogo opadajući)
 8 5 3 7 2 4 6 10 - niz nije v-niz jer ima dva lokalna minimuma
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

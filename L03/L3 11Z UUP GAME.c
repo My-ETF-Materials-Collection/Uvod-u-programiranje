@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji omogućuje unos tri niza cijelih brojeva različite veličine, a ispisuje na ekran broj članova koji se javljaju u dva od tri niza (bez ponavljanja). Obratite pažnju da ne treba brojati članove koji se nalaze u sva tri niza, nego samo one koji se nalaze u dva od tri niza!
 
@@ -14,8 +15,9 @@ U dva od tri niza se nalazi 3 clanova.
 Objašnjenje: Brojevi 2, 3 i 4 se nalaze u dva od tri niza. Broj 2 se nalazi u prvom i drugom, 3 u prvom i trećem, a 4 u drugom i trećem. Broj 1 se nalazi u sva tri niza pa ga ne brojimo. Brojevi 5, 6, 7, 8, 9 i 10 se nalaze u samo po jednom nizu, pa ni njih ne računamo
 
 Napomena: Rješenje koje uvijek ispisuje isti broj članova koji se ponavljaju ili hardcodira rješenja (npr. ako je niz jednak nekom iz autotesta uvijek ispisuje DA ili NE) biće bodovana sa 0 bodova bez obzira na potencijalno ispravne dijelove koda!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

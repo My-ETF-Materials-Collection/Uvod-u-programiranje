@@ -1,3 +1,4 @@
+/*
 Zadatak
 Dat je neki niz prirodnih brojeva. Ako na svaki član tog niza primijenimo operaciju binarni XOR (ekskluzivna disjunkcija) sa nekim prirodnim brojem X dobićemo neki drugi niz prirodnih brojeva.
 
@@ -15,8 +16,9 @@ Primjer ulaza i izlaza:
 Unesite N: 4
 4 2 3 1
 X=6
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

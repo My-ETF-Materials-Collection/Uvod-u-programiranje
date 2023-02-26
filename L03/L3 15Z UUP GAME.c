@@ -1,3 +1,4 @@
+/*
 Zadatak
 Dat je neki niz prirodnih brojeva (uključujući nulu), na primjer:
 233, 38, 17777, 7737, 152
@@ -15,9 +16,10 @@ Unesite velicinu niza: 5
 Unesite clanove niza: 233 38 17777 7737 152
 Finalni niz glasi:
 2 1 3 3 8 1 1 1 7 6 3 1 7 1 1 1 5 1 2 1
-Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara === OVDJE UBACITI KOD === a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 
