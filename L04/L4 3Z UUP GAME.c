@@ -1,9 +1,11 @@
+/*
 Zadatak
 Napisati program koji učitava matricu cijelih brojeva dimenzija 10x10 te pronalazi najmanji element na glavnoj dijagonali. Primjere ulaza i izlaza možete vidjeti kroz testove.
 
 Napomena: Zadatak obavezno riješiti koristeći matricu.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

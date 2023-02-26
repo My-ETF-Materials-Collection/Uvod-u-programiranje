@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napravite program koji obavlja sljedeći zadatak:
 
@@ -11,8 +12,9 @@ Matrica meta je matrica organizirana u koncentrične kružnice. U sredini matric
 1 2 2 2 1
 1 1 1 1 1
 Napomena: Zadatak u kojem se budu koristili bilo kakvi nizovi ili matrice osim jedne jedine matrice dimenzija 100x100 će dobiti 0 bodova!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <math.h>
 #include <stdio.h>

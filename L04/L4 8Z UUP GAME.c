@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napravite program koji učivata matricu cijelih brojeva dimenzija 10x10, a zatim pronalazi red sa najvećim i red sa najmanjim elementom. Ako se oba elementa nalaze u istom redu, program treba ispisati poruku "Najveci i najmanji element se nalaze u istom redu." i završiti s radom. U suprotnom, potrebno je zamijeniti mjesta ta dva reda u matrici i ispisati tako modifikovanu matricu na ekranu.
 
@@ -7,8 +8,9 @@ Unesite elemente matrice: 1 2 3 4 ...
 Nakon zamjene matrica glasi:
 1 2 3 4 ...
 Napomena: Zadatak obavezno riješiti koristeći matricu.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

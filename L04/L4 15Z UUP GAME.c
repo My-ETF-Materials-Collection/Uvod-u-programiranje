@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji na ekranu iscrtava stupčasti grafik (bar graph) na osnovu unesenog niza brojeva, koristeći znakove | (vertikalna linija), * (zvjezdica) i - (minus).
 Program najprije omogućuje unos niza od maksimalno 20 elemenata na intervalu [-10,10]. Unos niza se prekida kada korisnik unese vrijednost 999. Ukoliko korisnik unese neku vrijednost van intervala [-10,10] koja nije 999, potrebno je ispisati poruku "Broj nije u trazenom intervalu" i prekinuti rad programa. Nakon završetka unosa iscrtavaju se vertikalni stupci sastavljeni od onoliko znakova | kolika je vrijednost člana niza, pri čemu se umjesto posljednjeg člana niza stavlja znak * (zvjezdica). Između svaka dva stupca se nalaze po dva znaka razmaka. Potrebno je iscrtati i vodoravnu crtu koja označava nulu. Za članove niza čija je vrijednost nula treba staviti zvjezdicu na vodoravnu crtu.
@@ -17,8 +18,9 @@ Unesite članove niza: 4 -3 7 0 -1 999
    |        *
    |
    *
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 /*
 kolika je vrijednost clana niza toliko je i duzina vertikalnog stupca

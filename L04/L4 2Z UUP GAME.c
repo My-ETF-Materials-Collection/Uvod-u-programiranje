@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji prvo od korisnika traži da unese dimenzije matrica A i B, zatim unosi elemente tih matrica, te vertikalno nadovezuje (konketuje) matrice A i B u matricu C, koju ispisuje na ekranu na 4 mjesta širine. Ako matrice nisu saglasne za nadovezivanje (nemaju isti broj redova) ili ako su unesene dimenzije prevelike (veće od 10), program ispisuje grešku i završava s radom.
 
@@ -19,8 +20,9 @@ Matrica C:
    5   6   7
    9   8   7
 Napomena: Pri rješavanju zadatka obavezno deklarisati i unijeti matrice A i B, zatim popuniti matricu C odgovarajućim brojevima, te na kraju ispisati matricu C na ekran. Zadaci koji ne budu urađeni na ovaj način neće biti priznati!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

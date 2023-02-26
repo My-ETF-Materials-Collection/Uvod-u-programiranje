@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos broja n (ne veći od 50) koji predstavlja dimenziju matrice formata n × n. Program treba popuniti matricu tako da na glavnoj dijagonali budu nule, ispod dijagonale (paralelno sa glavnom dijagonalom) su elementi popunjeni sa -1, -2, ..., -n, dok su elementi iznad glavne dijagonale (paralelno sa njom) popunjeni sa 1, 2, ..., n.
 
@@ -11,8 +12,9 @@ Matrica glasi:
   -3  -2  -1   0   1
   -4  -3  -2  -1   0
 Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

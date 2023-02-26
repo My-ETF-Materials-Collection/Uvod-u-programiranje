@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program za množenje matrica.
 Od korisnika se prvo traži unos dvije matrice pozitivnih cijelih brojeva. Unos reda matrice se završava sa -1, a unos matrice sa -2, pri čemu pretpostavljamo da niti jedna matrica neće imati više od 100 redova i 100 kolona. Ukoliko se prekorače date dimenzije ili unesene vrijednosti ne čine matricu, prvom prilikom nakon pogrešnog unosa obavijestiti korisnika i završiti program. Nakon unosa obje matrice, provjeriti da li su one pogodne za množenje, te ako nisu ispisati odgovarajuću poruku. Ako su matrice pogodne za množenje, program računa i ispisuje proizvod matrica.
@@ -17,7 +18,6 @@ Matrice su pogodne za mnozenje. Matricni proizvod je:
    49   64
 Primjer 2:
 
-
 Unesite elemente 1. matrice: 
 1 2 3 4 -1
 5 6 7 8 -2
@@ -26,8 +26,8 @@ Unesite elemente 2. matrice:
 3 4 -1
 5 6 -2
 Matrice nisu pogodne za mnozenje.
-Primjer 3:
 
+Primjer 3:
 
 Unesite elemente 1. matrice: 
 1 2 3 4 -1
@@ -37,8 +37,9 @@ Unesite elemente 2. matrice:
 3 4 5 -1
 Ovo nije matrica!
 Napomena: Zadatak obavezno riješiti koristeći matrice.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

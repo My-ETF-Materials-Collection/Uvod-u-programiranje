@@ -1,9 +1,11 @@
+/*
 ZADATAK
 
 Napravite program koji učitava realnu matricu dimenzija AxB (A i B su konstante) te pronalazi
 sumu elemenata na rubu matrice.
+*/
 
-MOJ KOD: 
+// MOJ KOD: 
 
 #include <stdio.h>
 #define A 5

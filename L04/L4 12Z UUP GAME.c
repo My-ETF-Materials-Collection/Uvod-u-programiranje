@@ -1,3 +1,4 @@
+/*
 Zadatak
 Najprije treba omogućiti korisniku da unese matricu proizvoljnih dimenzija MxN. Korisnik najprije unosi prirodne brojeve M i N koji su manji ili jednaki 200. Petljom do-while treba osigurati da su brojevi u traženom opsegu. Nakon toga, unose se elementi matrice.
 
@@ -21,8 +22,9 @@ Nakon izbacivanja redova/kolona matrica glasi:
     1    2    3
     4    5    6
     7    8    9
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

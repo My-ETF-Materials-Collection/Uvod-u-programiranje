@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji omogućuje unos kvadratne matrice cijelih brojeva dimenzija NxN (N nije veće od 100). Korisnik najprije unosi broj N (do-while petljom osigurati da je u traženom opsegu), zatim unosi elemente matrice. Zatim se ispisuje vrsta matrice, tj. jedan od sljedećih tekstova:
 
@@ -12,8 +13,9 @@ Nista od navedenog
 Ako matrica ispunjava više uslova odjednom, treba ispisati tekst koji se u tabeli nalazi prije. Npr. jedinična matrica je ujedno i dijagonalna ali za nju treba ispisati "Jedinicna matrica".
 
 Napomena: Zadatak obavezno riješiti koristeći matricu.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

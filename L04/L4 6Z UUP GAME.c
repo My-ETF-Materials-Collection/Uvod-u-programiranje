@@ -1,3 +1,4 @@
+/*
 Zadatak
 Potrebno je napisati program koji omogućuje unos tri matrice cjelobrojnih elemenata A, B i C čije su dimenzije jednake: MxN, a M i N su najviše 100. Najprije se unose brojevi M i N (pomoću do-while petlje osigurati da su ti brojevi u traženom opsegu). Zatim se provjerava da li su matrice B i C sastavljene od istih elemenata kao matrica A, pri čemu se ti elementi trebaju ponavljati isti broj puta. Ako je uslov zadatka ispunjen program treba na ekranu ispisati DA, u suprotnom treba ispisati NE.
 
@@ -20,9 +21,10 @@ Unesite clanove matrice C: 3 6 7 2 6 -1 3 4 1
 DA
 Napomena: Rješenje koje uvijek ispisuje DA ili NE ili hardcodira rješenja (npr. ako je matrica jednaka nekoj iz autotesta uvijek ispisuje DA ili NE) biće bodovana sa 0 bodova bez obzira na potencijalno ispravne dijelove koda! Zabranjeno je kreirati pomoćne nizove ili sortirati elemente u matricama!
 
-Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara /* === OVDJE UBACITI KOD === */ a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+Napomena: U postavci zadatka je dat polazni kod - nije dozvoljeno promijeniti ovaj kod! Vaše rješenje zadatka napišite umjesto komentara === OVDJE UBACITI KOD === a ono što se nalazi prije i poslije toga nipošto nemojte mijenjati jer vam neće prolaziti testovi!
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

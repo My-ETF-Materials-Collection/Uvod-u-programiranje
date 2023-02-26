@@ -1,3 +1,4 @@
+/*
 Zadatak
 Zamislimo da na ekranu imamo koordinatni sistem sastavljen od 20x20 mjesta. Ishodište koordinatnog sistema je u gornjem lijevom uglu i ono odgovara koordinatama (0,0).
 Omogućite korisniku da unese najviše 10 tačaka koristeći koordinate [0,19]. Zatim iscrtajte oblik sastavljen od znakova zvjezdica (asterisk) na onim koordinatama koje je korisnik unio, a na ostalim lokacijama prazno mjesto. U slučaju da je unesen neispravan broj tačaka ili koordinate izvan dozvoljenog opsega treba ispisati poruku "Pogresan unos" i zatražiti da se ponovo unese broj tačaka odnosno koordinate te tačke.
@@ -14,8 +15,9 @@ Unesite 4. tacku: 4 0
 * *
  *
 (radi uštede prostora izostavili smo 16 praznih redova ispod nacrtanog oblika)
+*/
 
-MOJ KOD: 
+// MOJ KOD: 
 
 #include <stdio.h>
 

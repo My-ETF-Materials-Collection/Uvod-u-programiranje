@@ -1,3 +1,4 @@
+/*
 Zadatak
 Potrebno je napisati program koji će testirati simetričnost matrice po najvećim i najmanjim vandijagonalnim elementima. Matrica je simetrična ako ima jednake najveće elemente iz O1 i O4 oblasti i ako ima jednake najmanje elemente iz O2 i O3 oblasti (pogledati sliku). Korisnik sa tastature unosi cijeli broj n, koji predstavlja dimenziju matrice, te nakon toga unosi i elemente matrice formata n × n. Unos napraviti takvim da se jedan red matrice unosi istovremeno (elementi se pri unosu razdvajaju razmacima – pogledati primjer). Uneseni broj n mora biti u intervalu
 [3, 30], u suprotnom program ispisuje grešku i završava sa radom. Program, pored toga što treba ispitati simetričnost matrice, treba da ispiše najveće (odnosno najmanje) vandijagonalne elemente iz pojedinih oblasti (zaokruženo na 3 decimale).
@@ -32,8 +33,9 @@ Primjer 3:
 Unesite broj n: 2
 Unos pogresan!
 Napomena: Zadatak obavezno riješiti koristeći matricu.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

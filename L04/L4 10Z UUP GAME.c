@@ -1,3 +1,4 @@
+/*
 Zadatak
 U matematici je poznat pojam Teplicove matrice. Teplicova matrica je matrica kod koje su svi elementi na glavnoj dijagonali međusobno jednaki, ali su i na svakoj dijagonali koja je paralelna sa glavnom dijagonalom svi elementi također međusobno jednaki. Primjer Teplicove matrice:
 
@@ -22,8 +23,9 @@ Unesite M i N: 4 5
 Unesite elemente matrice: 1 2 3 4 5 5 1 2 3 4 4 5 1 2 3 3 4 5 1 2
 Matrica je cirkularna
 Napomena: Zadatak obavezno riješiti koristeći matricu.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 
