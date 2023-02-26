@@ -1,10 +1,12 @@
+/*
 Zadatak
 Napisati funkciju matrice_permutacija koja prima tri matrice A, B i C istih dimenzija MxN te vraća logičku istinu ako sve tri matrice sadrže iste elemente sa istim brojem ponavljanja, a logičku neistinu u suprotnom. Prototip funkcije glasi:
 
 int matrice_permutacija(double A[100][100], double B[100][100], double C[100][100], int M, int N)
 Napišite i main funkciju pomoću koje se možete uvjeriti da je navedena funkcija ispravna.
+*/
 
-MOJ KOD: 
+// MOJ KOD: 
 
 #include <stdio.h>
 #define eps 0.0001

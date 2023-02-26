@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju int NZD (int a, int b) koja vraća najveći zajednički djelilac brojeva a i b. Npr. NZD (8, 12) je 4, NZD (6, 366) je 6. Napomena: funkcija je jako kratka ako se koristi rekurzija.
 
@@ -6,8 +7,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije NZD
 Unesite a: 8
 Unesite b: 12
 NZD(8,12) je 4.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

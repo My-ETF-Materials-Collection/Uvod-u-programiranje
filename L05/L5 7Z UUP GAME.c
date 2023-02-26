@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napraviti program koji ispisuje na ekranu Pascalov trougao sa n redova pri čemu se prirodan broj n unosi sa tastature:
 
@@ -21,8 +22,9 @@ Unesite n: 10
 1   7   21  35  35  21  7   1
 1   8   28  56  70  56  28  8   1
 1   9   36  84  126 126 84  36  9   1
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

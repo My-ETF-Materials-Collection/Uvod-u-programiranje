@@ -1,3 +1,4 @@
+/*
 Zadatak
 Date su funkcije double f(double x) i double g(double x). Potrebno je napisati funkciju sa prototipom:
 
@@ -9,8 +10,9 @@ Problem određivanja tačaka u kojoj se funkcije f(x) i g(x) sijeku je identiča
 Najprije treba podijeliti interval [A,B] na dva jednaka podintervala [A,H] i [H,B] pri čemu je H=(A+B)/2. Ako je jedna od tačaka A, H ili B presjek funkcija, treba vratiti tu tačku. Ako se funkcije sijeku u sve tri tačke, trebamo smatrati da su funkcije identične. U suprotnom, traženje presjeka se nastavlja na jednom od ova dva podintervala na kojem funkcija h(x) mijenja znak. Npr. ako je h(A) pozitivno, a h(H) negativno, kažemo da funkcija h(x) mijenja znak na intervalu [A,H]. Ako funkcija mijenja znak na oba podintervala, nastavićemo traženje na podintervalu [A,H]. Ako ne mijenja niti na jednom, tražićemo presjek na oba podintervala sve dok širina intervala ne bude manja od δ=0.01, nakon čega smatramo da se funkcije ne sijeku.
 
 Pored navedene funkcije, vaš program treba sadržavati i funkcije f, g i main, kako bi se mogao kompajlirati i kako biste se uvjerili da radi ispravno. No, prilikom testiranja vaših rješenja, ove funkcije će biti zamijenjene testnim funkcijama.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

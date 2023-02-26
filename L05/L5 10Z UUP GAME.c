@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite funkciju pod imenom daj_prost koja nema parametara, a svaki put kada se pozove vraća sljedeći prost broj. Kada prvi put pozovete funkciju, ona treba vratiti broj 2, drugi put treba vratiti broj 3, zatim broj 5, 7, 11 itd.
 
@@ -19,8 +20,9 @@ Primjer ulaza i izlaza:
 Objašnjenje: 3+5+7 = 15.
 
 Pri rješavanju zadatka nije dozvoljeno koristiti globalne promjenljive.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

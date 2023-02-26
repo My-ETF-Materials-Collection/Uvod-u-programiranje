@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju čiji je prototip:
 
@@ -13,8 +14,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije ist
 Unesite broj a: 4423
 Unesite broj b: 2433
 Brojevi a i b se sastoje od istih cifara.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

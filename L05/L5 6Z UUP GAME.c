@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <math.h>
+
 double sinus(double x,long int n);
 long int faktorijel(int n);
+
 int main() {
     long int n;
     double x;
@@ -21,6 +23,7 @@ int main() {
 
 	return 0;
 }
+
 long int faktorijel(int n){
     int i;
     long int fakt=1;

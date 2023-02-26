@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju double stepen (double b, int e) koja vraća potenciju broja b^e bez korištenja funkcije pow. Funkcija treba da radi i sa negativnim eksponentom.
 
@@ -6,8 +7,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije ste
 Unesite bazu: 0.1
 Unesite eksponent: 2
 0.1^2 je 0.01.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

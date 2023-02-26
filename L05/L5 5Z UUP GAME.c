@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite funkciju obrnut koja vraća primljeni pozitivan cijeli broj okrenut naopako. Npr. ako se funkcija pozove sa vrijednošću 12345 (dvanaest hiljada tristo četrdeset i pet), treba vratiti broj 54321 (pedeset četiri hiljade tristo dvadeset i jedan). Pri tome nije dozvoljeno koristiti nizove niti raditi bilo kakav ispis u funkciji!
 
@@ -5,8 +6,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije obr
 
 Unesite broj: 12345
 Broj 12345 okrenut naopako glasi 54321.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

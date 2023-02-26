@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju dva_od_tri koja prima tri niza cijelih brojeva različite veličine, a vraća broj članova koji se javljaju u dva od tri niza (bez ponavljanja). Obratite pažnju da ne treba brojati članove koji se nalaze u sva tri niza, nego samo one koji se nalaze u dva od tri niza!
 
@@ -11,8 +12,9 @@ Brojevi 2, 3 i 4 se nalaze u dva od tri niza. Broj 2 se nalazi u prvom i drugom,
 Broj 1 se nalazi u sva tri niza pa ga ne brojimo.
 Brojevi 5, 6, 7, 8, 9 i 10 se nalaze u samo po jednom nizu, pa ni njih ne računamo.
 Napomena: Pri rješavanju ovog zadatka (a ni inače), nije dozvoljeno kreirati pomoćni niz u funkciji ako ne znamo koliko veliki niz nam treba, čak i ako zadatak prolazi sve testove.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

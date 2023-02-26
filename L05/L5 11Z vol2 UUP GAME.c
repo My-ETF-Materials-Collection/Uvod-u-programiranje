@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju sa prototipom:
 
@@ -21,8 +22,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije ari
 Unesite clanove niza (0 za kraj):
 10365 2841 31000 23711 17 0
 Najvise puta se ponavlja cifra 1 a najmanje cifra 2.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

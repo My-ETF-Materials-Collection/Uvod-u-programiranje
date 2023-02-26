@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju prva_cifra koja za proslijeđeni parametar n vraća prvu cifru toga broja. Npr. prva_cifra(7392); treba da vrati broj 7. Predznak broja zanemariti.
 
@@ -5,8 +6,9 @@ Napisati i kraću main funkciju koja omogućuje testiranje napisane funkcije prv
 
 Unesite broj: -7392
 Prva cifra broja je 7.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

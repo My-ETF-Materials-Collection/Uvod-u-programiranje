@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite funkciju sa prototipom:
 
@@ -28,8 +29,9 @@ Unesite broj a: 2358
 Unesite broj b: 2358
 ISTINA
 Napomena: Zabranjeno je korištenje funkcija iz biblioteke string.h kao što je sprintf ili snprintf.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <math.h>
