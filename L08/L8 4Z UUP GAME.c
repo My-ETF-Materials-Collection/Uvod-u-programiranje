@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati funkciju
 
@@ -16,8 +17,9 @@ Također obavezno napraviti i main funkciju sa sljedećim oblikom ulaza i izlaza
 Unesite vektor v1: 1 1 1
 Unesite vektor v2: 2 2 2
 Vektorski proizvod vektora v1 i v2 je: (0,0,0)
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

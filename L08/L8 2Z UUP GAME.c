@@ -1,3 +1,4 @@
+/*
 Zadatak
 Data je struktura
 
@@ -12,8 +13,9 @@ Podsjetimo, mješoviti proizvod tri vektora: v1=(ax,ay,az) i v2=(bx,by,bz) i v3=
 image.png
 
 Ako je vrijednost matričnog proizvoda jednaka 0, tada su vektori (samim tim i tačke koje ih čine), komplanarne. U suprotnom, tačke su nekomplanarne.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

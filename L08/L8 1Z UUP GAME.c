@@ -1,3 +1,4 @@
+/*
 Zadatak
 Data je struktura koja opisuje trenutni kurs neke valute u kursnoj listi (koliko KM ćete dobiti za jednu jedinicu te valute).
 
@@ -10,8 +11,9 @@ Npr. trenutni kurs za valutu EUR je 1.955830 KM, pa struktura za tu valutu sadr�
 Napisati funkciju razmjena koja prima kursnu listu (niz proizvoljne dužine čiji su članovi tipa struct Kurs), jedan string koji označava valutu (npr. "EUR") i iznos novca u toj valuti, a vraća iznos u KMovima. U gornjem primjeru, ako bismo poslali iznos 2, funkcija bi trebala vratiti 3.91166. Ako se valuta ne nalazi u nizu treba vratiti 0.
 
 Obavezno napisati i main funkciju koja omogućuje: unos kursne liste, zatim unos valute i iznosa, poziv funkcije i na kraju ispis rezultata konverzije.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <string.h>

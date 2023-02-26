@@ -1,3 +1,4 @@
+/*
 Zadatak
 Date su strukture
 
@@ -12,8 +13,9 @@ U pitanju su likovi u Dekartovom dvodimenzionalnom koordinatnom sistemu, pri če
 Napisati funkciju pod imenom izbaci_pravougle koja prima niz trouglova i iz njega izbacuje sve pravougle trouglove bez promjene redoslijeda. Napravite i glavni program koji omogućuje testiranje ispravnog rada ove funkcije.
 
 Napomena: U funkciji nije dozvoljeno kreirati pomoćni niz.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <math.h>
 #include <stdio.h>

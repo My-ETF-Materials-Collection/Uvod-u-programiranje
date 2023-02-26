@@ -1,3 +1,4 @@
+/*
 Zadatak
 Data je sljedeća struktura podataka:
 
@@ -23,8 +24,9 @@ Program treba sadržavati funkcije:
 unos_osobe
 ispis_osobe
 Niz ne smije biti deklarisan kao globalna promjenljiva nego treba biti lokalan za funkciju main.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

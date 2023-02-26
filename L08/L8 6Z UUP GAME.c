@@ -1,3 +1,4 @@
+/*
 Zadatak
 Date su strukture:
 
@@ -9,8 +10,9 @@ Napisati funkciju sa prototipom:
 
 struct Kruznica obuhvat(struct Tacka* niz, int vel)
 Funkcija prima niz tačaka (barem jedna tačka se nalazi u nizu), a vraća najmanju kružnicu koja obuhvata sve tačke u nizu. Smatra se da kružnica "obuhvata" tačku ako se tačka nalazi unutar kružnice ili na kružnici.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <stdlib.h>

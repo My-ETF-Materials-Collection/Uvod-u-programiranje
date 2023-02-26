@@ -1,3 +1,4 @@
+/*
 Zadatak
 Data je struktura:
 
@@ -10,8 +11,9 @@ Napisati funkciju preslozi_pozivni koja prima niz gradova, veličinu i jedan poz
 Napisati i main funkciju koja omogućuje da se unese niz gradova proizvoljne dužine, zatim poziva funkciju preslozi_pozivni, te na kraju ispisuje tako presložen niz na ekran.
 
 Napomena: U funkciji je strogo zabranjeno kreirati pomoćni niz, i takvo rješenje će biti bodovano sa 0 bodova.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 struct Grad{
