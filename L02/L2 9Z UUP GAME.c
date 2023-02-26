@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji ispisuje tablicu kvadrâta brojeva iz intervala [a b] sa korakom k. Korisnik unosi granice intervala a i b, korak k, te širinu ispisa i broj decimala koje će program ispisivati.
 
@@ -56,9 +57,9 @@ X                                                         X^2
 3.30000                       |                      10.89000
 3.40000                       |                      11.56000
 3.50000                       |                      12.25000
+*/
 
-
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

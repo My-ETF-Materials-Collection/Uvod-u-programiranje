@@ -1,3 +1,4 @@
+/*
 Zadatak
 Sabit i Fadila su se odlučili okušati u pikadu, tradicionalnoj igri koja potiče iz Engleske, a danas je vrlo popularan sport. Sabit je odlučio da igraju igru 301, u kojoj je cilj prije protivnika doći do 0 poena.
 
@@ -23,8 +24,9 @@ Primjer ulaza i izlaza:
 Unesite pogotke za Sabita: IIIIIIXXS5.
 Unesite pogotke za Fadilu: S7XOOIIIII.
 Oba igrača su premašila potrebni broj poena, rezultat je neriješen.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

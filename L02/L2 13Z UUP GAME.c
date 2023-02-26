@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji za uneseno n ispisuje dvije simetrične strelice (u ogledalu) dimenzija 2n × n. Ukoliko je n manje od 2, program treba ispisati grešku i završiti s radom. Primjer ispisa:
 
@@ -11,8 +12,9 @@ Unesite n: 5
 ***     ***
 **       **
 *         *
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

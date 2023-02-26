@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji iscrtava Descartesov koordinatni sistem (u nastavku KS) i tačku na njemu. Korisnik unosi n, dimeziju KS-a, a program iscrtava 2n × 4n pôlja KS-a, tj. svaki kvadrant KS-a ima dimenziju n × 2n (ovo je odabrano zbog odnosa visine i širine znakova na konzoli).
 
@@ -32,9 +33,6 @@ Unesite (x y): 8 4
          |
          |
          v
-
-
-
 
 Unesite dimenziju: 4
 Unesite (x y): 0 2
@@ -71,9 +69,9 @@ Primjer 2:
 Unesite dimenziju: 4
 Unesite (x y): 8 5
 Koordinate tacke izvan opsega!
+*/
 
-MOJ KOD:
-
+// MOJ KOD:
 
 #include <stdio.h>
 

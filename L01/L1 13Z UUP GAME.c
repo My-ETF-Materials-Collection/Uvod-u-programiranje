@@ -1,3 +1,4 @@
+/*
 Date su tri tačke u dvodimenzionalnom Dekartovom prostoru preko koordinata x i y. Ove tri tačke čine trougao.
 
 Potrebno je napraviti program koji omogućuje unos ovih tačaka (koordinate su realni brojevi), zatim ispisuje koju vrstu trougla one čine, te ispisuje najveći ugao u trouglu (u stepenima).
@@ -13,6 +14,7 @@ Pravougli
 Jednakokraki
 Najveci ugao ima 90 stepeni, 0 minuta i 0 sekundi.
 Napomena: Koristiti vrijednost ε=0.0001 i tip double.
+*/
 
 #include <math.h>
 #include <stdio.h>

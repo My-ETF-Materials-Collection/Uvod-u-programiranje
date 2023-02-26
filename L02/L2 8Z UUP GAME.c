@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji ispisuje na ekranu jediničnu matricu dimenzije n, pri čemu se broj n unosi sa tastature. Pri tome je od korisnika potrebno tražiti da unese dodatni parametar r, koji će definisati format ispisa matrice, tako da između svake susjedne kolone bude r praznih mjesta. (Pri rješavanju zadatka nemojte koristiti nizove ni matrice!)
 
@@ -9,8 +10,9 @@ Unesite sirinu ispisa: 7
        0       1       0       0
        0       0       1       0
        0       0       0       1
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

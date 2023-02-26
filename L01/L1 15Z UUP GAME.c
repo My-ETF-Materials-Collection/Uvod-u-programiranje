@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji od korisnika traži unos broja n i rednog broja cifre c. Broj n može biti u (isključivom) intervalu (-1000000, 1000000) (ukoliko to nije slučaj program ispisuje Neispravan unos! i završava sa radom), dok redni broj cifre može biti od 1 do broja cifara unesenog broja n (ukoliko to nije slučaj program ispisuje Neispravna cifra! i završava sa radom).
 
@@ -11,8 +12,9 @@ Unesite broj: 2451
 Koju cifru zelite kvadrirati: 2
 Izdvojena cifra je 4, a njen kvadrat je 16
 Napomena: Zabranjeno korištenje petlji i nizova, te se preporučuje da se zadatak uradi bez math.h biblioteke.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 #include <stdio.h>
 
 int main() {

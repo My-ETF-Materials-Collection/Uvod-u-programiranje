@@ -1,3 +1,4 @@
+/*
 Zadatak
 Potrebno je napraviti program koji pomaže učenicima da nauče rješavati zadatke iz matematike sa kvadratnom jednačinom.
 Kvadratna jednačina (polinom drugog stepena) je jednačina oblika:
@@ -25,10 +26,9 @@ Isti princip koristi se za rješenje x2 te se unos ponavlja dok korisnik ne unes
 	Unesite rjesenje x2: -0.9999
 	Tacno
 Napomena: Koristiti vrijednost ε=0.001 i tip double.
+*/
 
-
-
-MOJ KOD:
+// MOJ KOD:
 
 #include <math.h>
 #include <stdio.h>

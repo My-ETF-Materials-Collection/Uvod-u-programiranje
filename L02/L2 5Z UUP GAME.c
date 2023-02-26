@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji sa tastature učitava prirodan broj, te ispituje da li je broj prost. Ako se unese broj koji nije prirodan (n<=0), program treba ispisati poruku „Broj nije prirodan.“ i završava. Ako je broj prost treba ispisati poruku „Broj je prost.“, u suprotnom poruku „Broj je slozen.“. Ako je unesen broj n=1 program treba ispisati poruku: „Broj 1 nije ni prost ni slozen.“.
 
@@ -17,8 +18,9 @@ Broj je slozen.
 
 Unesite broj: 13
 Broj je prost.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

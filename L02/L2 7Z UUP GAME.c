@@ -1,3 +1,4 @@
+/*
 Zadatak
 Program najprije treba omogućiti unos cijelog broja n. Ako je broj neparan, manji od 4 ili veći od 100 treba ispisati poruku ‘Broj je van trazenog opsega.’ i prekinuti rad programa. U suprotnom na ekranu treba iscrtati oblik kao na primjeru ulaza i izlaza ispod, sastavljen od znakova plus (+):
 
@@ -15,8 +16,9 @@ Oblik koverte sastoji od:
 
 Pravougaonika n x 2*n
 Dvije kose crte i prave crte koji čine ‘poklopac koverte’ koji ima visinu od n/2 - 1 pluseva.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

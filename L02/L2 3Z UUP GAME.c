@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji računa proizvod svih prirodnih parnih brojeva do broja n (uključivo) koji se unosi sa tastature. Ukoliko uneseni broj nije prirodan, program treba da ispiše grešku i završi sa radom. Primjer ulaza i izlaza:
 
@@ -7,8 +8,9 @@ Proizvod je: 8
 
 Unesite n: 14
 Proizvod je: 645120
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

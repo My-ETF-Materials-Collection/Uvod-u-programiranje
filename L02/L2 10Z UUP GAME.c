@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koja izračunava vrijednost ln(1+x) po sljedećoj formuli dobijenoj koristeći Taylorov razvoj:
 image.png
@@ -14,8 +15,9 @@ Unesite broj n: 5
 Izracunata vrijednost: 0.407292
 Bibliotecna funkcija: 0.405465
 Razlika u postotcima: 0.45%
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 #include <math.h>

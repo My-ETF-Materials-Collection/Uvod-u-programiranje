@@ -1,8 +1,6 @@
+/*
 Zadatak
 Napišite program koji će iscrtavati BGA kolo. Korisnik unosi broj n, koji predstavlja broj pinova (lopticâ, predstavljenih znakom „o“) u jednom redu i jednoj koloni BGA kola. Broj n mora biti u granicama [1, 35]. Pinove BGA kola staviti u okvir (po dva razmaka sa lijeve i desne strane okvira), koji ima izvode za daljnju ugradnju na desnoj strani. Izvodi su sastavljeni od „>“ i „<“ znakova. Primjeri ispisa:
-
-
-
 
 Unesite N, dimenziju BGA kola: 3
 
@@ -21,8 +19,9 @@ Unesite N, dimenziju BGA kola: 5
 |  o o o o o  <
 |  o o o o o  >
 +-------------+
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

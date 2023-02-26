@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napisati program koji računa sumu svih prostih brojeva do broja n (uključivo). Pored toga, program treba da ispisuje te (proste) brojeve, svaki u novom redu. Zabranjeno je korištenje biblioteka osim „stdio.h“ biblioteke. Također je zabranjeno koristiti pomoćne funkcije (odnosno, jedina funkcija koja smije biti u programu je main funkcija). Primjer ispisa:
 
@@ -11,9 +12,9 @@ Unesite n: 17
 13
 17
 Suma je: 58
+*/
 
-MOJ KOD:
-
+// MOJ KOD:
 
 #include<stdio.h>
 

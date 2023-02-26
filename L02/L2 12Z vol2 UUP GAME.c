@@ -1,3 +1,4 @@
+/*
 Zadatak
 Date su dvije jednačine:
 image.png
@@ -14,8 +15,9 @@ Unesite poluprecnik kruznice A: 5
 Unesite koordinate centra kruznice B: 20 4
 Unesite poluprecnik kruznice B: 2
 Kruznice se ne sijeku.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <math.h>
 #include <stdio.h>

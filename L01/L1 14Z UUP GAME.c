@@ -1,3 +1,4 @@
+/*
 Zadatak
 Tri drugarice Anja, Elma i Una odlučile su za vikend da idu u neki grad u kojem je lijepo vrijeme. Problem je što se njih tri ne slažu oko toga šta je tačno "lijepo vrijeme": Anja voli sunce i snijeg ali ne voli kišu, Elma ne voli kada je vrlo vruće niti vrlo hladno, a Una ne voli padavine generalno i ne voli kad je vrijeme "onako".
 
@@ -29,9 +30,9 @@ Unesite prognozu za Sarajevo:
 Temperatura: 25
 Padavine (D/N): k
 Pogresan unos.
+*/
 
-
-MOJ KOD:
+// MOJ KOD:
 #include <stdio.h>
 
 int main() {

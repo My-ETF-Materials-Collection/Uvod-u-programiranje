@@ -1,3 +1,4 @@
+/*
 Zadatak
 Napišite program koji računa ukupnu udaljenost puta između dva mjesta. Korisnik unosi početnu i krajnju tačku puta, a zatim neograničeno mnogo udaljenosti između tačaka koje čine međuputeve između ta dva mjesta. Unos međuputeva se vrši u formatu „a x b“, gdje a predstavlja početnu tačku, x udaljenost između dva mjesta u metrima, dok b predstalja odredišnu tačku. Unos se prekida kada se dođe do krajnje tačke puta.
 
@@ -19,8 +20,9 @@ Unesite udaljenost(x udaljenost b): c 100 d
 Niste unijeli dobar medjuput! Probajte ponovo
 Unesite udaljenost(x udaljenost b): b 100 b
 Napomena: Obratite pažnju da na to da izraz scanf(„%c“, &c) u varijablu c može smjestiti i znak novi red, pa je isti potrebno ignorirati.
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 

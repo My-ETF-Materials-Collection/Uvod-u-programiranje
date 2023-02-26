@@ -1,3 +1,4 @@
+/*
 Napisati program koji računa sumu kvadratu prirodnih brojeva manjih ili jednakih broja n koji se unosi sa tastature. Ukoliko korisnik unese broj koji nije prirodan,  program treba ispisati grešku "Broj nije prirodan!" i završiti sa radom. Ukoliko uopšte ne bude unesen broj (nego npr. slovo ili riječ), program treba ispisati poruku "Nije unesen broj!" i završiti sa radom. Primjeri izlaza:
 
 Unesite n: 143
@@ -8,8 +9,9 @@ Nije unesen broj!
 
 Unesite n: 17
 Suma je 1785
+*/
 
-MOJ KOD:
+// MOJ KOD:
 
 #include <stdio.h>
 
